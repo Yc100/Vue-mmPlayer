@@ -75,7 +75,7 @@ export default {
         this._hideLoad()
       })
       .catch(e => {
-        console.log(e)
+        
       })
   }
 }
